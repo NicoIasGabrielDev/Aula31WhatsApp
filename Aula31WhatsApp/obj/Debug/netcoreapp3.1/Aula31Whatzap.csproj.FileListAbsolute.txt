@@ -1,0 +1,24 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\obj\Debug\netcoreapp3.1\Aula31Whatzap.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\obj\Debug\netcoreapp3.1\Aula31Whatzap.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\obj\Debug\netcoreapp3.1\Aula31Whatzap.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\bin\Debug\netcoreapp3.1\Aula31Whatzap.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\bin\Debug\netcoreapp3.1\Aula31Whatzap.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\bin\Debug\netcoreapp3.1\Aula31Whatzap.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\bin\Debug\netcoreapp3.1\Aula31Whatzap.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\bin\Debug\netcoreapp3.1\Aula31Whatzap.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\bin\Debug\netcoreapp3.1\Aula31Whatzap.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\obj\Debug\netcoreapp3.1\Aula31Whatzap.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula31Whatzap\obj\Debug\netcoreapp3.1\Aula31Whatzap.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31Whatzap.exe
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31Whatzap.deps.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31Whatzap.runtimeconfig.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31Whatzap.runtimeconfig.dev.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31Whatzap.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31Whatzap.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31Whatzap.csprojAssemblyReference.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31Whatzap.AssemblyInfoInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31Whatzap.AssemblyInfo.cs
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31Whatzap.csproj.CoreCompileInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31Whatzap.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31Whatzap.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31Whatzap.genruntimeconfig.cache
